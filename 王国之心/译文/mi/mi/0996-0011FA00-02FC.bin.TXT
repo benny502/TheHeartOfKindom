@@ -1,0 +1,4 @@
+0000006C,5,tobig
+00000072,7,tosmall
+0000092C,5,tobig
+00000934,7,tosmall

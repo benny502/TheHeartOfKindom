@@ -1,0 +1,14 @@
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom.csprojResolveAssemblyReference.cache
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\MainWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TaskWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\MainWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TaskWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\App.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom_MarkupCompile.cache
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom.g.resources
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom.Properties.Resources.resources
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom.csproj.GenerateResource.Cache
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\bin\Debug\TheHeartOfKindom.exe
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\bin\Debug\TheHeartOfKindom.pdb
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom.exe
+c:\users\鑫\documents\visual studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Debug\TheHeartOfKindom.pdb

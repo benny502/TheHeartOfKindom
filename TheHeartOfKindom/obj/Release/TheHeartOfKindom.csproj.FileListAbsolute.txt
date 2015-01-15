@@ -1,0 +1,15 @@
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\bin\Release\TheHeartOfKindom.exe
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\bin\Release\TheHeartOfKindom.pdb
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\MainWindow.baml
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TaskWindow.baml
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\MainWindow.g.cs
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TaskWindow.g.cs
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\App.g.cs
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom_MarkupCompile.cache
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.g.resources
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.Properties.Resources.resources
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.csproj.GenerateResource.Cache
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.exe
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.pdb
+D:\汉化\王国之心\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.exe
+D:\汉化\王国之心\TheHeartOfKindom\TheHeartOfKindom\obj\Release\TheHeartOfKindom.pdb

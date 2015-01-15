@@ -1,0 +1,27 @@
+﻿<Window x:Class="TheHeartOfKindom.TaskWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="王国之心"  Height="400" Width="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ListView x:Name="listView">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="" DisplayMemberBinding="{Binding ID}" Width="50" />
+                        <GridViewColumn Header="文件名" DisplayMemberBinding="{Binding Path}" Width="150" />
+                        <GridViewColumn Header="文件索引" DisplayMemberBinding="{Binding Address}" Width="150" />
+                        <GridViewColumn Header="重复文本" DisplayMemberBinding="{Binding Text}" Width="250" />
+                        <GridViewColumn Header="译文" DisplayMemberBinding="{Binding TraslationText}" Width="250" />
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Grid.Row="1" Background="#E8E8EC">
+            <ProgressBar x:Name="progressbar" Width="200" Height="20" HorizontalAlignment="Right" />
+        </StackPanel>
+    </Grid>
+</Window>
